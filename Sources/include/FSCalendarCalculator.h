@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
+#import "FSCalendar.h"
 
 struct FSCalendarCoordinate {
     NSInteger row;
