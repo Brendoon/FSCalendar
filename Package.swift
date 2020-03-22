@@ -17,6 +17,6 @@ let package = Package(
         .target(
             name: "FSCalendar",
             path: "FSCalendar",
-            publicHeadersPath: "FSCalendar")
+            publicHeadersPath: nil)
     ]
 )
